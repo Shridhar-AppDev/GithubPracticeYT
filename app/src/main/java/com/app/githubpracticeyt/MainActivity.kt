@@ -9,7 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val a:Int=2
         println("My $a commit")
-    hello this is amazing
-
     }
 }
