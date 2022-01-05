@@ -7,7 +7,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val a:Int=2
-        println("My $a commit")
+        println("This is my another branch")
     }
 }
