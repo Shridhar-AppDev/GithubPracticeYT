@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         val a:Int=2
          println("My $a commit")
 
-         println("My changes in Experimental branch")
+         println("Change 1")
     }
 }
