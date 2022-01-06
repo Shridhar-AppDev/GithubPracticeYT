@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("This is my another branch")
         println("Change 3")
+        println("This is my hello from your friend")
     }
 }
